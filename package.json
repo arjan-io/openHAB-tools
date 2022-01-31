@@ -1,0 +1,24 @@
+{
+  "name": "@arjan-io/openhab-tools",
+  "version": "0.0.1",
+  "description": "Useful tools to make recurring pieces of code accessible so we don't have to code them over and over again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjan-io/openhab-tools.git"
+  },
+  "keywords": [
+    "openHAB",
+    "Javascript",
+    "rules"
+  ],
+  "author": "Arjan Hes",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/arjan-io/openhab-tools/issues"
+  },
+  "homepage": "https://github.com/arjan-io/openhab-tools#readme"
+}
