@@ -1,3 +1,3 @@
 module.exports = {
-    get myTimers() { return('./myTimers.js') }
+    get myTimers() { return require('./myTimers.js') }
 }
